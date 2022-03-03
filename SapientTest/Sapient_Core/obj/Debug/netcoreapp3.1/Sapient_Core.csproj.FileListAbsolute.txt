@@ -1,0 +1,9 @@
+C:\Users\ASUS\source\repos\SapientTest\Sapient_Core\bin\Debug\netcoreapp3.1\Sapient_Core.deps.json
+C:\Users\ASUS\source\repos\SapientTest\Sapient_Core\bin\Debug\netcoreapp3.1\Sapient_Core.dll
+C:\Users\ASUS\source\repos\SapientTest\Sapient_Core\bin\Debug\netcoreapp3.1\Sapient_Core.pdb
+C:\Users\ASUS\source\repos\SapientTest\Sapient_Core\obj\Debug\netcoreapp3.1\Sapient_Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\SapientTest\Sapient_Core\obj\Debug\netcoreapp3.1\Sapient_Core.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\SapientTest\Sapient_Core\obj\Debug\netcoreapp3.1\Sapient_Core.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\SapientTest\Sapient_Core\obj\Debug\netcoreapp3.1\Sapient_Core.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\SapientTest\Sapient_Core\obj\Debug\netcoreapp3.1\Sapient_Core.dll
+C:\Users\ASUS\source\repos\SapientTest\Sapient_Core\obj\Debug\netcoreapp3.1\Sapient_Core.pdb

@@ -1,0 +1,13 @@
+C:\Users\ASUS\source\repos\SapientTest\Sapient_Service\bin\Debug\netcoreapp3.1\Sapient_Service.deps.json
+C:\Users\ASUS\source\repos\SapientTest\Sapient_Service\bin\Debug\netcoreapp3.1\Sapient_Service.dll
+C:\Users\ASUS\source\repos\SapientTest\Sapient_Service\bin\Debug\netcoreapp3.1\Sapient_Service.pdb
+C:\Users\ASUS\source\repos\SapientTest\Sapient_Service\bin\Debug\netcoreapp3.1\Sapient_Core.dll
+C:\Users\ASUS\source\repos\SapientTest\Sapient_Service\bin\Debug\netcoreapp3.1\Sapient_Core.pdb
+C:\Users\ASUS\source\repos\SapientTest\Sapient_Service\obj\Debug\netcoreapp3.1\Sapient_Service.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\SapientTest\Sapient_Service\obj\Debug\netcoreapp3.1\Sapient_Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\SapientTest\Sapient_Service\obj\Debug\netcoreapp3.1\Sapient_Service.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\SapientTest\Sapient_Service\obj\Debug\netcoreapp3.1\Sapient_Service.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\SapientTest\Sapient_Service\obj\Debug\netcoreapp3.1\Sapient_Service.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\SapientTest\Sapient_Service\obj\Debug\netcoreapp3.1\Sapient_Service.csproj.CopyComplete
+C:\Users\ASUS\source\repos\SapientTest\Sapient_Service\obj\Debug\netcoreapp3.1\Sapient_Service.dll
+C:\Users\ASUS\source\repos\SapientTest\Sapient_Service\obj\Debug\netcoreapp3.1\Sapient_Service.pdb

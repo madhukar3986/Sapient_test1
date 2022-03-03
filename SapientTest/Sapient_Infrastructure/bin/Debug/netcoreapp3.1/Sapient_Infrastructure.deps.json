@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Sapient_Infrastructure/1.0.0": {
+        "dependencies": {
+          "Sapient_Core": "1.0.0"
+        },
+        "runtime": {
+          "Sapient_Infrastructure.dll": {}
+        }
+      },
+      "Sapient_Core/1.0.0": {
+        "runtime": {
+          "Sapient_Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sapient_Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Sapient_Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\ASUS\source\repos\SapientTest\Sapient_Infrastructure\bin\Debug\netcoreapp3.1\Sapient_Infrastructure.deps.json
+C:\Users\ASUS\source\repos\SapientTest\Sapient_Infrastructure\bin\Debug\netcoreapp3.1\Sapient_Infrastructure.dll
+C:\Users\ASUS\source\repos\SapientTest\Sapient_Infrastructure\bin\Debug\netcoreapp3.1\Sapient_Infrastructure.pdb
+C:\Users\ASUS\source\repos\SapientTest\Sapient_Infrastructure\bin\Debug\netcoreapp3.1\Sapient_Core.dll
+C:\Users\ASUS\source\repos\SapientTest\Sapient_Infrastructure\bin\Debug\netcoreapp3.1\Sapient_Core.pdb
+C:\Users\ASUS\source\repos\SapientTest\Sapient_Infrastructure\obj\Debug\netcoreapp3.1\Sapient_Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\SapientTest\Sapient_Infrastructure\obj\Debug\netcoreapp3.1\Sapient_Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\SapientTest\Sapient_Infrastructure\obj\Debug\netcoreapp3.1\Sapient_Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\SapientTest\Sapient_Infrastructure\obj\Debug\netcoreapp3.1\Sapient_Infrastructure.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\SapientTest\Sapient_Infrastructure\obj\Debug\netcoreapp3.1\Sapient_Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\SapientTest\Sapient_Infrastructure\obj\Debug\netcoreapp3.1\Sapient_Infrastructure.csproj.CopyComplete
+C:\Users\ASUS\source\repos\SapientTest\Sapient_Infrastructure\obj\Debug\netcoreapp3.1\Sapient_Infrastructure.dll
+C:\Users\ASUS\source\repos\SapientTest\Sapient_Infrastructure\obj\Debug\netcoreapp3.1\Sapient_Infrastructure.pdb
